@@ -13,6 +13,7 @@
   "author": "diogosflorencio",
   "license": "ISC",
   "dependencies": {
+    "dayjs": "^1.11.10",
     "moment": "^2.30.1"
   },
   "devDependencies": {

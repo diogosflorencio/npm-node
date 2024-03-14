@@ -1,12 +1,12 @@
 # Projeto de Aprendizado do NPM - NPM-NODE
 
-![GitHub repo size](https://img.shields.io/github/repo-size/seuusername/npm-playground?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/seuusername/npm-playground?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/seuusername/npm-playground?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/seuusername/npm-playground?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/seuusername/npm-playground?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/diogosflorencio/npm-node?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/diogosflorencio/npm-node?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/diogosflorencio/npm-node?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/diogosflorencio/npm-node?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/diogosflorencio/npm-node?style=for-the-badge)
 
-<img src="https://via.placeholder.com/150" style="width:33%" alt="Exemplo de Imagem">
+<img src="" style="width:33%" alt="Exemplo de Imagem">
 
 > Este é um projeto dedicado ao aprendizado e prática do NPM (Node Package Manager). O objetivo principal é explorar as funcionalidades do NPM para gerenciamento de dependências em projetos JavaScript.
 

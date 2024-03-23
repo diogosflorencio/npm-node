@@ -1,5 +1,9 @@
-import moment from 'moment';
-import dayjs from 'dayjs';
+// import moment from 'moment';
+// import dayjs from 'dayjs';
+
+var moment = require("moment")
+var dayjs = require("dayjs")
+
 
 console.log("Hello from JavaScript!");
 console.log(moment().startOf('day').fromNow());
